@@ -2,7 +2,7 @@
 title: DiaRisk-Advanced Detection Engine
 emoji: 🩺
 colorFrom: blue
-colorTo: teal
+colorTo: blue
 sdk: streamlit
 app_file: app.py
 pinned: false
