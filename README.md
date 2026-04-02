@@ -13,7 +13,7 @@ license: mit
 
 **DiaRisk** is a professional-grade clinical diagnostic system designed to identify Type 2 Diabetes risk patterns by transforming 253k+ CDC real-world health records into actionable medical insights.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg?color=blue)](https://huggingface.co/spaces/YOUR_USERNAME/diarisk-detection-engine)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg?color=blue)](https://huggingface.co/spaces/Divya499/diarisk-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](https://opensource.org/licenses/MIT)
 
 ## 🩺 Project Intelligence & Mission
