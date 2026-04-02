@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+.venv
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large Project Folders (Now optimized to <15MB each - INCLUDED)
+# models/
+data/
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
